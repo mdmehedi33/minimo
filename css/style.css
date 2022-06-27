@@ -1,0 +1,396 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    overflow: hidden;
+    width: 90%;
+    margin: 30px 5%;
+}
+
+.logo {
+    width: 20%;
+    float: left;
+}
+
+.logo img {}
+
+.manu {
+    width: 50%;
+    float: right;
+}
+
+.manu ul {
+    list-style: none;
+    float: right;
+}
+
+.manu ul li {
+    float: left;
+    margin-left: 50px;
+}
+
+.manu ul li a {
+    text-decoration: none;
+    color: #626262;
+    text-transform: uppercase;
+}
+
+.banner {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.photodairy {
+    margin: 80px 10%;
+
+}
+
+.photodairy h5 {
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.photodairy h1 {
+    color: #626262;
+    text-size-adjust: 35%;
+    margin-bottom: 15px;
+    text-size-adjust: 35px;
+}
+
+.photodairy p {
+    color: #626262;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.photodairy h6 {
+    color: #b4ad9e;
+    font-size: 12px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.lifestyle {
+    overflow: hidden;
+    width: 80%;
+    margin: 0 10%;
+    margin-bottom: 50px;
+}
+
+.lifestyle_one {
+    width: 47%;
+    float: left;
+}
+
+.lifestyle_one img {
+    width: 100%;
+}
+
+.lifestyle_one h5 {
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+.lifestyle_one h1 {
+    color: #626262;
+    text-size-adjust: 35%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    text-size-adjust: 35px;
+}
+
+.lifestyle_one p {
+    color: #626262;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.lifestyle_two {
+    width: 47%;
+    float: right;
+}
+
+.lifestyle_two img {
+    width: 100%;
+}
+
+.lifestyle_two h5 {
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    font-size: 13px;
+}
+
+.lifestyle_two h1 {
+    color: #626262;
+    text-size-adjust: 35%;
+    margin-bottom: 15px;
+    text-size-adjust: 35px;
+}
+
+.lifestyle_two p {
+    color: #626262;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.photo {
+    overflow: hidden;
+    width: 80%;
+    margin: 10%;
+    margin-bottom: 80px;
+
+}
+
+.photo_one {
+    width: 47%;
+
+    float: left;
+
+}
+
+.photo_one img {
+    width: 100%;
+
+}
+
+.photo_one h5 {
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin-top: 20px;
+
+}
+
+.photo_one h1 {
+    color: #626262;
+    text-size-adjust: 35%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    text-size-adjust: 35px;
+}
+
+.photo_one p {
+    color: #626262;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.photo_two {
+    width: 47%;
+
+    float: right;
+}
+
+.photo_two img {
+    width: 100%;
+
+}
+
+.photo_two h5 {
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.photo_two h1 {
+    color: #626262;
+    text-size-adjust: 35%;
+    margin-bottom: 15px;
+    text-size-adjust: 35px;
+}
+
+.photo_two p {
+    color: #626262;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.newsletter {
+    background-color: #f0f0f0;
+    padding: 100px 0;
+    margin-bottom: 70px;
+}
+
+.news_content {
+    width: 28%;
+    margin: 0% auto;
+    position: relative;
+    /* padding-bottom: 2px; */
+}
+
+.news_content h2 {
+    color: #333333;
+    font-weight: 500;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 70px;
+
+}
+
+.news_content input {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #333333;
+    width: 100%;
+    padding: 8px 0;
+}
+.icon{
+    
+position: absolute;
+    
+left: 91%;
+    
+bottom: 3%;
+}
+
+.lifestyle1 {
+    overflow: hidden;
+    width: 80%;
+    margin: 0 10%;
+    margin-bottom: 50px;
+
+}
+
+.lifestyle_m {
+    width: 47%;
+    float: left;
+
+}
+
+.lifestyle_m img {
+    width: 100%;
+
+}
+
+.lifestyle_m h5 {
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+.lifestyle_m h1 {
+    color: #626262;
+    text-size-adjust: 35%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    text-size-adjust: 35px;
+
+}
+
+.lifestyle_m p {
+
+    color: #626262;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.lifestyle_n {
+    width: 47%;
+    float: right;
+}
+
+.lifestyle_n img {
+    width: 100%;
+}
+
+.lifestyle_n h5 {
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    font-size: 13px;
+}
+
+.lifestyle_n h1 {
+    color: #626262;
+    text-size-adjust: 35%;
+    margin-bottom: 15px;
+    text-size-adjust: 35px;
+}
+
+.lifestyle_n p {
+    color: #626262;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.loadmore {
+    margin: 100px 0;
+    text-align: center;
+}
+
+.loadmore button {
+    border: none;
+    border: 1px solid #333;
+    padding: 15px 30px;
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: 400;
+    background: transparent;
+}
+
+footer {
+    background-color: #f0f0f0;
+    padding: 30px;
+
+}
+
+.footer_content {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.privecy {
+    width: 30%;
+    float: left;
+}
+
+.privecy ul {
+    list-style: none;
+
+}
+
+.privecy ul li {
+    float: left;
+    margin-right: 15px;
+}
+
+.privecy ul li a {
+    color: #333;
+    text-decoration: none;
+}
+
+.social_icon {
+    width: 30%;
+    float: right;
+    overflow: hidden;
+}
+
+.social_icon ul {
+    list-style: none;
+    float: right;
+    overflow: hidden;
+}
+
+.social_icon ul li {
+    float: left;
+    margin-left: 15px;
+}
+
+.social_icon ul li a {
+    color: #333;
+    text-decoration: none;
+}
